@@ -2,7 +2,7 @@
 
 Technical editor and alert human
 
-[:earth_americas: www.fortc.com](https://www.fortc.com)
+[:earth_americas: fortc.com](https://www.fortc.com)
 
 #### Build status
 
