@@ -1,5 +1,9 @@
 ### David Finster
 
+Technical editor and alert human
+
+[:earth_americas: www.fortc.com](https://www.fortc.com)
+
 #### Build status
 
 | Site | Status |
